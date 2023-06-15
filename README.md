@@ -1,0 +1,2 @@
+# Fresns-DiscuzSmiley
+Fresns Plugin
