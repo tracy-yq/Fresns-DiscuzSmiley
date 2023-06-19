@@ -1,0 +1,18 @@
+{
+    "name": "fresns/discuz-smiley",
+    "description": "Discuz X 系统自带的默认四组表情。",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tracy",
+            "homepage": "https://github.com/tracy-yq",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Plugins\\DiscuzSmiley\\": "app"
+        }
+    },
+    "require": {}
+}
