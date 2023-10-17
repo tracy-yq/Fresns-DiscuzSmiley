@@ -12,7 +12,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img src="/assets/plugins/DiscuzSmiley/smiley/default/smile.gif" width="28" height="28" class="me-2"> 默认</td>
+                    <td><img src="/assets/DiscuzSmiley/smiley/default/smile.gif" width="28" height="28" class="me-2"> 默认</td>
                     <td>24</td>
                     <td>
                         <button type="button" class="btn btn-primary btn-sm float-start me-2" data-bs-toggle="modal" data-bs-target="#defaultModal">查看表情</button>
@@ -25,7 +25,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img src="/assets/plugins/DiscuzSmiley/smiley/coolmonkey/01.gif" width="28" height="28" class="me-2"> 酷猴</td>
+                    <td><img src="/assets/DiscuzSmiley/smiley/coolmonkey/01.gif" width="28" height="28" class="me-2"> 酷猴</td>
                     <td>16</td>
                     <td>
                         <button type="button" class="btn btn-primary btn-sm float-start me-2" data-bs-toggle="modal" data-bs-target="#coolmonkeyModal">查看表情</button>
@@ -38,7 +38,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img src="/assets/plugins/DiscuzSmiley/smiley/grapeman/01.gif" width="28" height="28" class="me-2"> 呆呆男</td>
+                    <td><img src="/assets/DiscuzSmiley/smiley/grapeman/01.gif" width="28" height="28" class="me-2"> 呆呆男</td>
                     <td>24</td>
                     <td>
                         <button type="button" class="btn btn-primary btn-sm float-start me-2" data-bs-toggle="modal" data-bs-target="#grapemanModal">查看表情</button>
@@ -51,7 +51,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img src="/assets/plugins/DiscuzSmiley/smiley/face/1.gif" width="28" height="28" class="me-2"> 小黄脸</td>
+                    <td><img src="/assets/DiscuzSmiley/smiley/face/1.gif" width="28" height="28" class="me-2"> 小黄脸</td>
                     <td>30</td>
                     <td>
                         <button type="button" class="btn btn-primary btn-sm float-start me-2" data-bs-toggle="modal" data-bs-target="#faceModal">查看表情</button>

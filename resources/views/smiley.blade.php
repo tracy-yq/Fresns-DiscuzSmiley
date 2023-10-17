@@ -15,7 +15,7 @@
             <div class="col-md-5 mb-3">
                 <div class="input-group">
                     <span class="input-group-text">替换为</span>
-                    <input type="text" class="form-control" name="replaceWith" value="{{ $systemUrl.'/assets/plugins/DiscuzSmiley' }}" required>
+                    <input type="text" class="form-control" name="replaceWith" value="{{ $systemUrl.'/assets/DiscuzSmiley' }}" required>
                 </div>
             </div>
             <div class="col-md-2 mb-3">

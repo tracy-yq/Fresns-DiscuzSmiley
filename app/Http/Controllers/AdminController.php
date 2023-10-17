@@ -82,7 +82,7 @@ class AdminController extends Controller
                 $defaultGroup = Sticker::create([
                     'code' => 'default',
                     'name' => 'default',
-                    'image_file_url' => "{$systemUrl}/assets/plugins/DiscuzSmiley/smiley/default/smile.gif",
+                    'image_file_url' => "{$systemUrl}/assets/DiscuzSmiley/smiley/default/smile.gif",
                     'type' => Sticker::TYPE_GROUP,
                 ]);
 
@@ -126,7 +126,7 @@ class AdminController extends Controller
                 $coolmonkeyGroup = Sticker::create([
                     'code' => 'coolmonkey',
                     'name' => 'coolmonkey',
-                    'image_file_url' => "{$systemUrl}/assets/plugins/DiscuzSmiley/smiley/coolmonkey/01.gif",
+                    'image_file_url' => "{$systemUrl}/assets/DiscuzSmiley/smiley/coolmonkey/01.gif",
                     'type' => Sticker::TYPE_GROUP,
                 ]);
 
@@ -170,7 +170,7 @@ class AdminController extends Controller
                 $grapemanGroup = Sticker::create([
                     'code' => 'grapeman',
                     'name' => 'grapeman',
-                    'image_file_url' => "{$systemUrl}/assets/plugins/DiscuzSmiley/smiley/grapeman/01.gif",
+                    'image_file_url' => "{$systemUrl}/assets/DiscuzSmiley/smiley/grapeman/01.gif",
                     'type' => Sticker::TYPE_GROUP,
                 ]);
 
@@ -214,7 +214,7 @@ class AdminController extends Controller
                 $faceGroup = Sticker::create([
                     'code' => 'face',
                     'name' => 'face',
-                    'image_file_url' => "{$systemUrl}/assets/plugins/DiscuzSmiley/smiley/face/1.gif",
+                    'image_file_url' => "{$systemUrl}/assets/DiscuzSmiley/smiley/face/1.gif",
                     'type' => Sticker::TYPE_GROUP,
                 ]);
 

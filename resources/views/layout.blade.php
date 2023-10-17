@@ -25,7 +25,7 @@
                     </div>
                     <div class="col-5">
                         <div class="input-group mt-2 mb-4 justify-content-lg-end px-1" role="group">
-                            <a class="btn btn-outline-secondary" href="/assets/plugins/DiscuzSmiley/discuz-smiley.zip" role="button"><i class="bi bi-download"></i> 下载表情包文件</a>
+                            <a class="btn btn-outline-secondary" href="/assets/DiscuzSmiley/discuz-smiley.zip" role="button"><i class="bi bi-download"></i> 下载表情包文件</a>
                         </div>
                     </div>
                 </div>
